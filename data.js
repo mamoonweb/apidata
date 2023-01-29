@@ -1,5 +1,6 @@
 
-   const locations = [ {
+   const locations = [
+      {
       "title": "Miti",
       "latitude": 24.83390815799132,
       "longitude":  67.16277455025606,
