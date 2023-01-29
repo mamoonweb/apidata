@@ -1,6 +1,4 @@
-eqfeed_callback({
-  "type": "FeatureCollection",
-    "features": [
+
     {
       "title": "Miti",
       "latitude": 24.83390815799132,
@@ -25,6 +23,5 @@ eqfeed_callback({
       "longitude": 67.15858494400187,
       "description": "This is another marker in Category 2"
     }
-  ]
   
-});
+  
