@@ -1,26 +1,26 @@
 [
     {
-      "title": "Category 1",
-      "latitude": 37.7749,
-      "longitude": -122.4194,
+      "title": "Miti",
+      "latitude": 24.83390815799132,
+      "longitude":  67.16277455025606,
       "description": "This is a marker in Category 1"
     },
     {
-      "title": "Category 2",
-      "latitude": 40.7128,
-      "longitude": -74.0060,
+      "title": "Korangi 5 Hospital",
+      "latitude": 24.830519729386424,
+      "longitude": 67.1609721058081,
       "description": "This is a marker in Category 2"
     },
     {
-      "title": "Category 1",
-      "latitude": 34.0522,
-      "longitude": -118.2437,
+      "title": "Rasees Ahmed",
+      "latitude": 24.8295849741427,
+      "longitude": 67.17088555027192,
       "description": "This is another marker in Category 1"
     },
     {
-      "title": "Category 2",
-      "latitude": 41.8781,
-      "longitude": -87.6298,
+      "title": "Korangi 4 Zoo",
+      "latitude": 24.826589943013808, 
+      "longitude": 67.15858494400187,
       "description": "This is another marker in Category 2"
     }
   ]
