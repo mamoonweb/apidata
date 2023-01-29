@@ -1,5 +1,5 @@
 
-    {
+   const locations = [ {
       "title": "Miti",
       "latitude": 24.83390815799132,
       "longitude":  67.16277455025606,
@@ -23,5 +23,5 @@
       "longitude": 67.15858494400187,
       "description": "This is another marker in Category 2"
     }
-  
+    ]
   
